@@ -14,7 +14,5 @@
 
 Follow us:
 - [ZeroErr Official Website](http://www.zeroerr.com)
-- [Twitter: @zeroerrerob4566](https://twitter.com/zeroerrerob4566)
-- [Company Profile on GitHub](https://github.com/company/zeroerr-control-co-ltd)
 
-Followers: 20 | Following: 0
+Followers: 21 | Following: 0
