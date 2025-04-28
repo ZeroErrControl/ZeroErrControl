@@ -15,4 +15,4 @@
 Follow us:
 - [ZeroErr Official Website](http://www.zeroerr.com)
 
-Followers: 21 | Following: 0
+Followers: 23 | Following: 0
