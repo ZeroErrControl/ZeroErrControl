@@ -21,6 +21,6 @@ ZeroErr's high-reliability hardware not only supports current industrial and med
 As AI continues to advance in perception, interaction, and planning, it places ever-increasing demands on hardware for responsiveness, compliance, and durability.
 Through collaboration with AI technology providers or platforms, ZeroErr can develop integrated smart solutions that enable robots and other automated equipment to coordinate more seamlessly with humans.
 
-For more information, please refer [About ZeroErr](https://www.zeroerr.com/about_us/company-information).
+For more information, please refer to [About ZeroErr](https://www.zeroerr.com/about_us/company-information).
 
 Thank you.
