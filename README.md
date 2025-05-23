@@ -4,10 +4,10 @@ ZeroErr Inc. specializes in providing highly reliable and precise key components
 
 Our products include the eRob series of rotary actuators and the eCoder series of magnetic encoders. These products are applicable to multiple fields, such as collaborative robots, surgical robots, bionic robots, humanoid robots, and industrial automation, thereby facilitating the effective implementation of the digital world in real-world environments.
 
-- Mission (Present Focus)
+- **Mission**
 Anchored in "Construct reliable physical body for digital world," ZeroErr weaves its pursuit of high performance and reliability into everything from robotic joints to high-precision encoders.
 
-- Vision (Future Outlook)
+- **Vision**
 Continually working toward "Transform laborious physical work to digital control," enabling humanity to break free from laborious, repetitive, or high-risk tasks, and concentrate on more creative and higher-value undertakings.
 
 - AI's Need for a Physical Body
@@ -18,9 +18,6 @@ ZeroErr's high-reliability hardware not only supports current industrial and med
 As AI continues to advance in perception, interaction, and planning, it places ever-increasing demands on hardware for responsiveness, compliance, and durability.
 Through collaboration with AI technology providers or platforms, ZeroErr can develop integrated smart solutions that enable robots and other automated equipment to coordinate more seamlessly with humans.
 
----
+For more information, please refer [About ZeroErr](https://www.zeroerr.com/about_us/company-information).
 
-Follow us:
-- [ZeroErr Official Website](http://www.zeroerr.com)
-
-Followers: 23 | Following: 0
+Thank you.
