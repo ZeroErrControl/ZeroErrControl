@@ -1,14 +1,22 @@
 # ZeroErr Inc.
 
-**ZeroErr** delivers reliable rotary actuators & encoders for automation, robotics, & surgical tech. We ensure precision, innovation, quality, and responsive support.
+ZeroErr Inc. specializes in providing highly reliable and precise key components and solutions for the global robotics and automation industry.
 
-- 👋 Hi, I’m [@ZeroErrControl](https://github.com/ZeroErrControl)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: [overseas_dpt@zeroerr.cn](mailto:overseas_dpt@zeroerr.cn)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Our products include the eRob series of rotary actuators and the eCoder series of magnetic encoders. These products are applicable to multiple fields, such as collaborative robots, surgical robots, bionic robots, humanoid robots, and industrial automation, thereby facilitating the effective implementation of the digital world in real-world environments.
+
+- Mission (Present Focus)
+Anchored in "Construct reliable physical body for digital world," ZeroErr weaves its pursuit of high performance and reliability into everything from robotic joints to high-precision encoders.
+
+- Vision (Future Outlook)
+Continually working toward "Transform laborious physical work to digital control," enabling humanity to break free from laborious, repetitive, or high-risk tasks, and concentrate on more creative and higher-value undertakings.
+
+- AI's Need for a Physical Body
+With the rise of deep learning and large language models (LLMs), AI has achieved groundbreaking progress in cognition and decision-making but still requires a "reliable physical body" to perform a wide array of tasks in the real world.
+ZeroErr's high-reliability hardware not only supports current industrial and medical robotics but also meets core future demands when AI becomes more adept at self-adaptation.
+
+- Potential Future Development
+As AI continues to advance in perception, interaction, and planning, it places ever-increasing demands on hardware for responsiveness, compliance, and durability.
+Through collaboration with AI technology providers or platforms, ZeroErr can develop integrated smart solutions that enable robots and other automated equipment to coordinate more seamlessly with humans.
 
 ---
 
